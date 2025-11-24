@@ -1,7 +1,7 @@
 # The Code.github
 This repository showcases programming implementations across popular programming languages.
 
-#### ✅ Books with Authors
+#### ✅ Books & Authors
 
 | Sl. No | Book                                     | Authors                          |
 |:------:|------------------------------------------|----------------------------------|
