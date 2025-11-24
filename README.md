@@ -8,3 +8,11 @@ This repository showcases programming implementations across popular programming
 |   1    | **Machine Learning with Python Cookbook**     | Kyle Gallatin & Chris Albon      |
 |   2    | **Problem Solving and Python Programming**    | Dr. A. Kannan & Dr. L. Sai Ramesh|
 
+
+#### ✅ Links & Documentations
+
+| Sl. No | Topic                                    | Authors                          |
+|:------:|------------------------------------------|----------------------------------|
+|   1    | **Learn NumPy**                                | https://numpy.org/learn/         |
+
+
