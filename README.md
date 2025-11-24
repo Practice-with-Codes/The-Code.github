@@ -1,4 +1,4 @@
-# The-Code.github
+# The Code.github
 This repository showcases programming implementations across popular programming languages.
 
 #### ✅ Books with Authors
