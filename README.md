@@ -12,7 +12,7 @@ This repository showcases programming implementations across popular programming
 
 #### ✅ Links & Documentations
 
-| Sl. No | Topic                                    | Authors                          |
+| Sl. No | Topic                                    | Links                          |
 |:------:|------------------------------------------|----------------------------------|
 |   1    | **Learn NumPy**                                | https://numpy.org/learn/         |
 
